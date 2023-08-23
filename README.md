@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mohit-kumar-chauhan-967158111/](https://www.linkedin.com/in/mohit-kumar-chauhan-967158111/)
 
-- 💬 Ask me about **Developement**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **mk6650383@gmail.com**
 
